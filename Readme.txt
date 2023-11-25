@@ -1,16 +1,16 @@
 # CSE438_Task1
 
 Link to unlisted YouTube video:
-https://youtu.be/yWnqo5Qugcw?si=oPaq3knBCw5KoTQR
+--------------------------------------
 
 Public link to the slide :
-https://docs.google.com/presentation/d/1R-GaqkVb1WxC2nO0btvNSg78vYHW-B_v/edit?usp=sharing&ouid=112182126410085353440&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1XYDLNcPkdKxZCZliXrtaOVbCrjUW9Rlb/edit?usp=sharing&ouid=112182126410085353440&rtpof=true&sd=true
 
 Paper title:
-Analysis on the Integrated Development of Traditional Information and Rural Tourism
+Student Behavior Analysis Research of based on Data Mining
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/9760873
+https://ieeexplore.ieee.org/document/10108164
 
 Group Number:
 3
